@@ -1,7 +1,6 @@
 # Frontend Mentor Challenge - Four Card Feature
 
-![Desktop Preview](./desktop-design.jpg)
-![Mobile Preview](./mobile-design.jpg)
+![Desktop Preview](design/desktop-design.jpg)
 
 ## 🚀 Description
 
@@ -10,10 +9,10 @@ This project is a challenge from [Frontend Mentor](https://www.frontendmentor.io
 ## 📸 Preview
 
 ### 🌐 Desktop Design
-![Desktop Design](./desktop-design.jpg)
+![Desktop Design](design/desktop-design.jpg)
 
 ### 📱 Mobile Design
-![Mobile Design](./mobile-design.jpg)
+![Mobile Design](design/mobile-design.jpg)
 
 ## 🛠️ Technologies Used
 
