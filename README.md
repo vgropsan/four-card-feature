@@ -18,8 +18,7 @@ This project is a challenge from [Frontend Mentor](https://www.frontendmentor.io
 
 - HTML5
 - CSS3 / SCSS
-- JavaScript (Optional)
-- [Framework or Library used, if applicable]
+- Normalize 8.1
 
 ## 📂 Installation & Usage
 
