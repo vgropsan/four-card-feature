@@ -4,7 +4,7 @@
 
 ## 🚀 Description
 
-This project is a challenge from [Frontend Mentor]([https://www.frontendmentor.io](https://www.frontendmentor.io/profile/vgropsan), designed to enhance my frontend development skills. The goal is to replicate the provided design using clean, accessible, and responsive code.
+This project is a challenge from ([Frontend Mentor](https://www.frontendmentor.io/profile/vgropsan), designed to enhance my frontend development skills. The goal is to replicate the provided design using clean, accessible, and responsive code.
 
 ## 📸 Preview
 
