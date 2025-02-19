@@ -1,6 +1,6 @@
 # Frontend Mentor Challenge - Four Card Feature
 
-![Desktop Preview](design/desktop-design.jpg)
+![Desktop Preview](design/desktop-preview.jpg)
 
 ## 🚀 Description
 
